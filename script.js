@@ -315,7 +315,7 @@ setTimeout(updateCanvasDimensions, 30);
 
 
 //Start of the codeacademy tutorial code. Above was linked in their index file and updated by me to allow everything to fit and work
-var birthday = "Happy Birthday David!";
+var birthday = "Bon compleano Leo! :)";
 
 var red = [0, 100, 63];
 var orange = [40, 100, 60];
